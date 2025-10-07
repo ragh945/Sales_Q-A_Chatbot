@@ -1,0 +1,20 @@
+# Core
+streamlit>=1.26
+pandas>=2.1
+pyodbc>=4.0
+python-dotenv>=1.0
+SQLAlchemy>=2.0
+
+# LangChain & LLM
+langchain>=0.0.350
+openai>=1.0.0
+
+# Optional
+tqdm>=4.66
+langchain-community
+langchain-google-genai
+matplotlib
+seaborn
+langchain-openai
+langchain_openai
+beautifulsoup4
